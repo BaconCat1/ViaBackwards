@@ -47,7 +47,7 @@ import com.viaversion.viaversion.protocols.v1_21_4to1_21_5.rewriter.RecipeDispla
 import com.viaversion.viaversion.protocols.v1_21_7to1_21_9.packet.ClientboundConfigurationPackets1_21_9;
 import com.viaversion.viaversion.protocols.v1_21_7to1_21_9.packet.ServerboundConfigurationPackets1_21_9;
 import com.viaversion.viaversion.protocols.v26_1to26_2.Protocol26_1To26_2;
-import com.viaversion.viaversion.rewriter.BlockRewriter;
+import com.viaversion.viaversion.api.rewriter.block.BlockRewriter;
 import com.viaversion.viaversion.rewriter.ParticleRewriter;
 import com.viaversion.viaversion.rewriter.RecipeDisplayRewriter;
 import com.viaversion.viaversion.rewriter.TagRewriter;
