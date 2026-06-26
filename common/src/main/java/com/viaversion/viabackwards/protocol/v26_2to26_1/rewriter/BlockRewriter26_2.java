@@ -26,7 +26,7 @@ import com.viaversion.viaversion.api.rewriter.block.BlockRewriter1_21_5;
 
 public final class BlockRewriter26_2<C extends ClientboundPacketType> extends BlockRewriter1_21_5<C> {
 
-    public BlockRewriter26_2(final Protocol<C, ?, ?, ?> protocol, final ChunkTypeSupplier chunkTypeSupplier) {
+    public BlockRewriter26_2(final Protocol<C, ?, ?, ?> protocol, final BlockRewriter1_21_5.ChunkTypeSupplier chunkTypeSupplier) {
         super(protocol, chunkTypeSupplier);
     }
 
