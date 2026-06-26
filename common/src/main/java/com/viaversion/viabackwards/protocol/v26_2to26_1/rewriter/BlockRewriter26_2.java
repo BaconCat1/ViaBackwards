@@ -22,7 +22,7 @@ import com.viaversion.viaversion.api.connection.UserConnection;
 import com.viaversion.viaversion.api.minecraft.blockentity.BlockEntity;
 import com.viaversion.viaversion.api.protocol.Protocol;
 import com.viaversion.viaversion.api.protocol.packet.ClientboundPacketType;
-import com.viaversion.viaversion.rewriter.block.BlockRewriter1_21_5;
+import com.viaversion.viaversion.api.rewriter.block.BlockRewriter1_21_5;
 
 public final class BlockRewriter26_2<C extends ClientboundPacketType> extends BlockRewriter1_21_5<C> {
 
